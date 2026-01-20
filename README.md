@@ -57,9 +57,3 @@ Full-featured applications built with the concepts above.
 - **StudentManagementSystem.cpp**: A system to manage student records using dynamic memory.
 - **VehicleManagementSystem.cpp**: An OOP-heavy system for tracking different types of vehicles.
 
----
-## 🚀 Actions Taken
-1. **Cleanup**: Removed all `.exe` files to keep the workspace clean.
-2. **Analysis**: Analyzed each file to understand its core purpose and logic.
-3. **Renaming**: Renamed files from generic names (like `1 d array.cpp`) to descriptive names (like `OneDimensionalArrayPtr.cpp`).
-4. **Organization**: Categorized files into logical folders based on their technical difficulty and topic.
